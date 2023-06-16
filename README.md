@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Serhii, and I'm Java Software Developer
 
 ![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sltnsrh&theme=transparent&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sltnsrh&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
