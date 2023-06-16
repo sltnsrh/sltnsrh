@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sltnsrh&theme=dark&show_icons=true&include_all_commits=true&show_total_reviews=true)
+![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=sltnsrh&theme=apprentice&show_icons=true&include_all_commits=true)
 
 <!--
 **sltnsrh/sltnsrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
