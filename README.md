@@ -1,5 +1,5 @@
 ## Hello, I'm Serhii 👋
-### Java Software Developer | Spring | Maven | RDBMS | REST API | Microservices | WebFlux | NoSql
+### Java Software Developer | Spring | Maven | MySql | REST API | Microservices | WebFlux | MongoDB
 Welcome to my GitHub profile! I'm a passionate Java software developer with more than 1 year background in web development, specializing in building robust and scalable applications using modern technologies. With experience in Spring, Spring Boot, Security, Microservices, and testing. Also, I have experience in manual trading and trading automation.
 ___
 🐥 Opened for new projects.
