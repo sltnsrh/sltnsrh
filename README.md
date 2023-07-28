@@ -11,7 +11,7 @@ ___
 * 💻 Developed and deployed numerous web applications using Spring and Spring Boot frameworks.
 * 🔒 Implemented secure authentication and authorization mechanisms using Spring Security.
 * 🚀 Built microservices architectures, leveraging Spring Cloud and related technologies.
-* ✅ Proficient in unit testing, integration testing, and test-driven development (TDD) methodologies.
+* ✅ Proficient in unit testing, and integration testing.
 * 📈 Used Clean Code principles.
 
 ### 📫 Let's Connect
