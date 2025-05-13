@@ -1,18 +1,27 @@
 ## Hello, I'm Serhii 👋
-### Java Software Developer | Spring | Maven | MySql | REST API | Microservices | WebFlux | MongoDB
-Welcome to my GitHub profile! I'm a passionate Java software developer with more than 1 year background in web development, specializing in building robust and scalable applications using modern technologies. With experience in Spring, Spring Boot, Security, Microservices, and testing. Also, I have experience in manual trading and trading automation.
-___
-🐥 Opened for new projects.
+### Full Stack Developer | Java | Spring | React | iOS (SwiftUI) | Automation
+Welcome to my GitHub profile! I'm a passionate developer with a background in web development, specializing in building robust and scalable applications using modern technologies. My expertise spans Java backend development with Spring, frontend with React, iOS mobile development with SwiftUI, and automation solutions with n8n.
 ___
 
-🔭 Currently Learning: Reactive WebFlux and MongoDB.
+🔭 Currently working on: SwiftUI iOS apps, React JS projects, UI design, and automation workflows with n8n.
 
 ### 💼 Professional Highlights
-* 💻 Developed and deployed numerous web applications using Spring and Spring Boot frameworks.
+* 💻 Developed and deployed numerous web applications using Spring, Spring Boot, and React JS.
+* 📱 Building iOS applications with SwiftUI.
+* 🤖 Creating automation solutions using n8n.
 * 🔒 Implemented secure authentication and authorization mechanisms using Spring Security.
 * 🚀 Built microservices architectures, leveraging Spring Cloud and related technologies.
+* 🎨 Designing engaging user interfaces for web and mobile applications.
 * ✅ Proficient in unit testing, and integration testing.
 * 📈 Used Clean Code principles.
+
+### 🛠️ Tech Stack
+* **Backend**: Java, Spring (Boot, Security, Data, WebFlux), Maven, REST API, Microservices
+* **Databases**: MySQL, MongoDB
+* **Frontend**: React JS, HTML, CSS
+* **Mobile**: iOS, SwiftUI
+* **Automation**: n8n
+* **Other**: Git, CI/CD, Clean Architecture
 
 ### 📫 Let's Connect
 If you have any questions, suggestions, or just want to say hello, feel free to reach out! You can connect with me through the [LinkedIn](https://www.linkedin.com/in/serhii-salatin/).
